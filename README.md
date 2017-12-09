@@ -1,0 +1,2 @@
+# skripto
+our startup
